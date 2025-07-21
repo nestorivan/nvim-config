@@ -1,0 +1,14 @@
+{
+	"languageserver": {
+		"tailwindcss": {
+			"command": "tailwindcss-language-server",
+			"filetypes": ["html", "jsx", "tsx"],
+			"rootPatterns": ["tailwind.config.*"]
+		},
+		"lua": {
+			"command": "lua-lsp",
+			"filetypes": ["lua"],
+		}
+	},
+}
+
